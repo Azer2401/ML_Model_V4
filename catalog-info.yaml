@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ML_Model_V4
+  annotations:
+    github.com/project-slug: Azer2401/ML_Model_V4
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
